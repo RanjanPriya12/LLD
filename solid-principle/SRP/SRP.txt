@@ -1,0 +1,2 @@
+A class, function or module should have only one reason to change.
+A class is responsible to do a single task.
